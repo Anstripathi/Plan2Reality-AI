@@ -1,0 +1,9 @@
+{
+  "unit": "mm",
+  "outer_width": 10000.0,
+  "outer_length": 8000.0,
+  "left_room_width": 4625.0,
+  "right_room_width": 4625.0,
+  "room_length": 7400.0,
+  "floor_height": 2800.0
+}

@@ -6,7 +6,7 @@ import cv2, numpy as np
 from decimal import Decimal
 from app.core.units import Unit
 from app.ingestion.calibration import CalibrationError, calibrate
-from app.ingestion.preprocess import apply_transform, ink_bounding_box, preprocess, rotate
+from app.vision.preprocess import apply_transform, ink_bounding_box, preprocess, rotate
 
 MM_PER_PX = 10.0   # ground truth: 100 px scale bar = 1000 mm
 
