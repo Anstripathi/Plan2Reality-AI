@@ -1,7 +1,7 @@
 # Plan2Reality AI
 From 2D Blueprint to 3D Reality. A geometry-first architectural reconstruction platform (millimetres internally; user/CAD dimensions are the source of truth).
 
-**Status: Phase 0 only.** See `docs/development/FEATURE_STATUS.md`. Nothing beyond the scaffold, unit conversion and measurement-provenance model exists yet.
+**Status: Phase 0 plus testable parts of Phases 1, 3 and 4 (see `docs/development/FEATURE_STATUS.md`). Recognition, rendering, video and most exports are not built yet.**
 
 ## Setup (Windows, PowerShell)
 ```powershell
